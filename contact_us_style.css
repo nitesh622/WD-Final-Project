@@ -1,0 +1,81 @@
+* {
+    margin-top: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background-color: #E8F9FD;
+}
+
+.main {
+    height: fit-content;
+    width: fit-content;
+    border: 5px solid black;
+    background-color: whitesmoke;
+    border-top: 5px solid grey;
+    border-left: 5px solid grey;
+    border: 1px solid grey;
+    padding: 20px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+}
+
+.contact {
+    height: 55px;
+    width: 380px;
+    margin:10px;
+    margin-left: 0;
+    margin-right: 0;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 12px;
+    font-size: 30px;
+}
+
+.name, .email, .subj {
+    height: 50px;
+    width: 380px;
+    padding: 5px;
+    padding-left: 0;
+    padding-right: 0;
+    margin-bottom: 15px;
+}
+
+.mess {
+    height: 100px;
+    width: 380px;
+    padding: 5px;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0;
+    margin-bottom: 25px;
+}
+
+.in {
+    border: 0;
+    height: 40px;
+    width: 370px;
+    padding-left: 7px;
+}
+
+.m {
+    border: 0;
+    height: 100px;
+    width: 370px;
+    padding-left: 7px;
+    padding-top: 7px;
+}
+
+.btn {
+    height: 40px;
+    width: 380px;
+    background-color: rgb(41, 57, 194);
+    margin-top:20px;
+    font-size: 15px;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
